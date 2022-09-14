@@ -1,0 +1,34 @@
+//Object
+// var delhi_Delight = new restaurentManager();
+// delhi_Delight.restaurent_Name = "hotel_Delight";
+// delhi_Delight.restaurent_Address = "601,East_of_Delhi";
+// delhi_Delight.restaurent_City = "Delhi";
+
+// var pune_Conrad = new restaurentManager();
+// pune_Conrad.restaurent_Name = "hotel_Conrad";
+// pune_Conrad.restaurent_Address = "602,West of Pune";
+// pune_Conrad.restaurent_City = "Pune";
+
+// var mumbai_Taj = new restaurentManager();
+// mumbai_Taj.restaurent_Name = "hotel_Taj";
+// mumbai_Taj.restaurent_Address = "603,North_of_Mumbai";
+// mumbai_Taj.restaurent_City  = "Mumbai";
+
+// var kolkata_EdenPavilion = new restaurentManager();
+// kolkata_EdenPavilion.restaurent_Name = "hotel_Eden_Pavilion";
+// kolkata_EdenPavilion.restaurent_Address = "604,South_of_Kolkata";
+// kolkata_EdenPavilion.restaurent_City = "Kolkata";
+
+// var Kerela_Mosaic = new restaurentManager();
+// Kerela_Mosaic.restaurent_Name = "hotel_Mosaic";
+// Kerela_Mosaic.restaurent_Address = "605,somewhere_in_Kerela";
+// Kerela_Mosaic.restaurent_City = "Kerela";
+
+// var print_restaurent_Names = new restaurentManager();
+// print_restaurent_Names.print_All_Restaurent_Names();
+
+// console.log(delhi_Delight);
+// console.log(pune_Conrad);
+// console.log(mumbai_Taj);
+// console.log(kolkata_EdenPavilion);
+// console.log(Kerela_Mosaic);
